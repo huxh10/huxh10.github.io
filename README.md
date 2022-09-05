@@ -1,6 +1,6 @@
 ## Xiaohe Hu | 胡效赫
 
-I am a postdoc at Tsinghua University. Previously, I received my Ph.D. and B.Eng. from Tsinghua University, where I worked in NSLab (CN ver.). I visited Berkeley NetSys Lab during my PhD study time.
+I am a postdoc at Tsinghua University. Previously, I received my Ph.D. and B.Eng. from Tsinghua University, where I worked in NSLab. I visited Berkeley NetSys Lab during my PhD study time.
 
 My research interests lie in architecting, building, and tuning systems. Currently, I am working on a state-of-the-art tapping system. My long-term project is to develop a programmable network processor.
 
